@@ -20,3 +20,5 @@ int main(int argc, const char * argv[]) {
            putchar(c);
        }
    }
+   return 0
+}
